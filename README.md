@@ -21,3 +21,4 @@ Para este proyecto se utilizo la libreria de npm sudoku la cual genera tableros 
 - https://github.com/LeeYiyuan/sudokusolver/blob/gh-pages/solver.js
 - https://codemyroad.wordpress.com/2014/05/01/solving-sudoku-by-backtracking/
 - http://moriel.smarterthanthat.com/tips/javascript-sudoku-backtracking-algorithm/
+- http://algorithms.tutorialhorizon.com/backtracking-sudoku-solver/
